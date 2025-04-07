@@ -130,7 +130,7 @@ NEXT_PUBLIC_TOKEN_ICO =
 # TOKEN ADDRESS
 NEXT_PUBLIC_DEPOSIT_TOKEN =
 NEXT_PUBLIC_REWARD_TOKEN =
-NEXT_PUBLIC_TOKEN_LOGO = https://gateway.pinata.cloud/ipfs/QmXTwJ2GgxbWET7uxyKaidT2isPF83YhQP77acskvZbCGu
+NEXT_PUBLIC_TOKEN_LOGO = https://gateway.pinata.cloud/ipfs/bafkreidbwtjzmg4rfbugwtti3u3eskcoidojxq6hj26huxxxxdhksapsuq
 
 # ADMIN
 NEXT_PUBLIC_ADMIN_ADDRESS =
