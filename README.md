@@ -1,8 +1,8 @@
-# Create a Token Staking DApp & Earn Rewards on Any Blockchain
+# Creating  a Token Staking DApp & Earn Rewards on Any Blockchain
 
-Create a Token Staking DApp & Earn Rewards with ICO using Next.js, WAGMI, Solidity and Deploy on Any Blockchain!
+Creating a Token Staking DApp & Earn Rewards with ICO using Next.js, WAGMI, Solidity and Deploy on Any Blockchain!
 
-Ready to build your own Token Staking DApp and earn rewards with an ICO? In this comprehensive tutorial, we'll guide you step-by-step through creating a decentralized application using Next.js, WAGMI, and Solidity on any blockchain. Whether you're a beginner or an experienced developer,
+ building our own Token Staking DApp and earn rewards with an ICO !!!! 
 
 ## Project Overview
 
