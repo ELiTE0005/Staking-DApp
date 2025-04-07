@@ -4,8 +4,6 @@ Create a Token Staking DApp & Earn Rewards with ICO using Next.js, WAGMI, Solidi
 
 Ready to build your own Token Staking DApp and earn rewards with an ICO? In this comprehensive tutorial, we'll guide you step-by-step through creating a decentralized application using Next.js, WAGMI, and Solidity on any blockchain. Whether you're a beginner or an experienced developer,
 
-By the end of this video, you'll have a fully functional DApp capable of staking tokens and earning rewards. Don't forget to like, subscribe, and hit the bell icon to stay updated with our latest tutorials!
-
 ## Project Overview
 
 
