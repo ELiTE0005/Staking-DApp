@@ -16,8 +16,26 @@ PS 4: Craft the Future of Onchain Consumer Experiences with Base
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
+Problems with Existing Platforms
+Team dNexus APRIL 2025
+New blockchain startups struggle to raise funds due to the complex and expensive process
+of launching an Initial Coin Offering (ICO)
+Users often face long lock-up periods with penalties for early withdrawals.
+Some platforms even block withdrawals during volatile market conditions.
+Many platforms don’t disclose how rewards are calculated, leading to fluctuating and
+unreliable APYs.
+
+
+**Why Stake-X ?**
+Dynamic ICO Pricing – The price of the token auto-adjusts based on staking demand
+more staking = higher initial value.
+Dynamic APY Management - It adjusts interest rates based on pool liquidity, offering
+users the best possible returns.
+Liquidity Optimization - Provides up to 80% liquidity access, ensuring efficient use of
+user assets + APY yield Pool
+Enhanced Decision-Making - Features an interactive APY estimator, helping users visualize
+trends and make smarter financial choices.
+
 
 ---
 
