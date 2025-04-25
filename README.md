@@ -1,156 +1,138 @@
-# Creating  a Token Staking DApp & Earn Rewards on Any Blockchain
+![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
-Creating a Token Staking DApp & Earn Rewards with ICO using Next.js, WAGMI, Solidity and Deploy on Any Blockchain!
+# 🚀 Project Title
 
- building our own Token Staking DApp and earn rewards with an ICO !!!! 
+> A one-line tagline or mission statement for your project.
 
-## Project Overview
+---
 
+## 📌 Problem Statement
 
-```
-```
+Select the problem statement number and title from the official list given in Participant Manual.
 
-#### Install Vs Code Editor
+**Example:**  
+**Problem Statement 7 – Transform the Future of Rural Commerce**
 
-```
-  URL: https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
+---
 
-#### NodeJs & NPM Version
+## 🎯 Objective
 
-```
-  URL: https://nodejs.org/en/download
-  NodeJs: v18.17.1 || LATEST VERSION
-  NPM: 8.19.2 || LATEST VERSION
-```
+What problem does your project solve, and who does it serve?  
+Briefly describe the real-world use case and the value it provides.
 
-#### ALL SOURCE CODE
+---
 
-```
- URL: https://www.Team dNexus/SourceCode
-  GET: Project Starter File Download
-```
+## 🧠 Team & Approach
 
+### Team Name:  
+`Your team name here`
 
-#### Install Vs Code Editor
+### Team Members:  
+- Name 1 (GitHub / LinkedIn / Role)  
+- Name 2  
+- Name 3  
+*(Add links if you want)*
 
-```
-  URL: https://code.visualstudio.com/download
-  GET: VsCode Editor
-```
+### Your Approach:  
+- Why you chose this problem  
+- Key challenges you addressed  
+- Any pivots, brainstorms, or breakthroughs during hacking  
 
-#### NodeJs & NPM Version
+---
 
-```
-  URL: https://nodejs.org/en/download
-  NodeJs: v18.17.1
-  NPM: 8.19.2
-```
+## 🛠️ Tech Stack
 
-#### RPU URL PROVIDER
+### Core Technologies Used:
+- Frontend:
+- Backend:
+- Database:
+- APIs:
+- Hosting:
 
-```
-  NAME: ANKR.COM
-  URL: https://www.ankr.com/rpc/
-```
+### Sponsor Technologies Used (if any):
+- [ ] **Groq:** _How you used Groq_  
+- [ ] **Monad:** _Your blockchain implementation_  
+- [ ] **Fluvio:** _Real-time data handling_  
+- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
+- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
+- [ ] **Stellar:** _Payments, identity, or token usage_
+*(Mark with ✅ if completed)*
+---
 
-#### FORMSPREE
+## ✨ Key Features
 
-```
-  # FORMSPREE
-  URL: https://formspree.io/
-```
+Highlight the most important features of your project:
 
-#### Google Cloud Web3
+- ✅ Feature 1  
+- ✅ Feature 2  
+- ✅ Feature 3  
+- ✅ Feature 4  
 
-Google Cloud Web3 will provide you with some free test faucets which you can transfer to your wallet address for deploying the contract
+Add images, GIFs, or screenshots if helpful!
 
-```
-  Get: Free Test Faucets
-  URL : https://cloud.google.com/application/web3/faucet/ethereum
-```
+---
 
-#### RemixID
+## 📽️ Demo & Deliverables
 
-We are using RemixID for deploying the contract and generation of the ABI in the project, but you can use any other tools like Hardhat, etc.
+- **Demo Video Link:** [Paste YouTube or Loom link here]  
+- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
 
-```
-  OPEN: RemixID
-  URL: https://remix-project.org
-```
+---
 
-## Important Links
+## ✅ Tasks & Bonus Checklist
 
+- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
+*(Mark with ✅ if completed)*
 
-## Authors
+---
 
+## 🧪 How to Run the Project
 
+### Requirements:
+- Node.js / Python / Docker / etc.
+- API Keys (if any)
+- .env file setup (if needed)
 
-#### PACKAGES
+### Local Setup:
+```bash
+# Clone the repo
+git clone https://github.com/your-team/project-name
 
-```
-  {
-  "name": "staking-dapp",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
-  },
-  "dependencies": {
-    "@formspree/react": "^2.5.1",
-    "@headlessui/react": "^1.6.6",
-    "@heroicons/react": "^1.0.6",
-    "@next/font": "13.4.13",
-    "@nextui-org/react": "^1.0.0-beta.9",
-    "@rainbow-me/rainbowkit": "^0.4.6",
-    "ethers": "^5.7.2",
-    "next": "13.4.13",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-hot-toast": "^2.4.1",
-    "react-icons": "^4.10.1",
-    "wagmi": "^0.6.4"
-  }
-}
+# Install dependencies
+cd project-name
+npm install
 
+# Start development server
+npm run dev
 ```
 
-#### ENVIROMENT VARIABLES
+Provide any backend/frontend split or environment setup notes here.
 
-```
-# STAKING DAPP ADDRESS
-NEXT_PUBLIC_STAKING_DAPP =
-NEXT_PUBLIC_TOKEN_ICO =
+---
 
-# TOKEN ADDRESS
-NEXT_PUBLIC_DEPOSIT_TOKEN =
-NEXT_PUBLIC_REWARD_TOKEN =
-NEXT_PUBLIC_TOKEN_LOGO = https://gateway.pinata.cloud/ipfs/bafkreidbwtjzmg4rfbugwtti3u3eskcoidojxq6hj26huxxxxdhksapsuq
+## 🧬 Future Scope
 
-# ADMIN
-NEXT_PUBLIC_ADMIN_ADDRESS =
+List improvements, extensions, or follow-up features:
 
+- 📈 More integrations  
+- 🛡️ Security enhancements  
+- 🌐 Localization / broader accessibility  
 
-# CURRANY
-NEXT_PUBLIC_CURRENCY = ETH
-NEXT_PUBLIC_CHAIN_ID = 17000
-NEXT_PUBLIC_NETWORK_NAME = Holesky
-NEXT_PUBLIC_NETWORK_DECIMALS = 18
-NEXT_PUBLIC_NETWORK = holesky
+---
 
-# RPC URLS
+## 📎 Resources / Credits
 
-NEXT_PUBLIC_HOLESKY_RPC_URL = https://rpc.ankr.com/eth_holesky
-NEXT_PUBLIC_ADDRESS_EXPLORER = https://holesky.etherscan.io/address/
-NEXT_PUBLIC_TOKEN_EXPLORER = https://holesky.etherscan.io/token/
-NEXT_PUBLIC_EXPLORER = https://holesky.etherscan.io/
+- APIs or datasets used  
+- Open source libraries or tools referenced  
+- Acknowledgements  
 
-# FORMSPREE
-NEXT_PUBLIC_FORMSPREE_API =
+---
 
-```
+## 🏁 Final Words
+
+Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+
+---
