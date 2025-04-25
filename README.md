@@ -99,6 +99,6 @@ EVM Used for Deployemnt Remix IDE
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:** [[Paste YouTube or Loom link here](https://youtu.be/bdM6b4JM7h8)]  
-- **Pitch Deck / PPT Link:** [[Paste Google Slides / PDF link here](https://drive.google.com/file/d/1ww5vrjspi8JJomL3yz4t4jqKbVpCLFfd/view?usp=sharing)]  
+- **Pitch Deck / PPT Link:** [[Paste Google Slides / PDF link here](https://drive.google.com/file/d/1ZoB1-kDh1dEYVDu1QjnEkWy3qENfXV8c/view?usp=sharing))]  
 
 
