@@ -8,10 +8,9 @@
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
+PS 4: Craft the Future of Onchain Consumer Experiences with Base 
 
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+>> built with Ethereum !
 
 ---
 
