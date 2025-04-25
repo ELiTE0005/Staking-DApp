@@ -2,7 +2,7 @@
 
 # 🚀 Project Title
 
-> A DeFi Token Staking & ICO Rewards DApp
+ A DeFi Token Staking & ICO Rewards DApp
 
 ---
 
