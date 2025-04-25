@@ -17,7 +17,8 @@ PS 4: Craft the Future of Onchain Consumer Experiences with Base
 ## 🎯 Objective
 
 Problems with Existing Platforms
-Team dNexus APRIL 2025
+
+
 New blockchain startups struggle to raise funds due to the complex and expensive process
 of launching an Initial Coin Offering (ICO)
 Users often face long lock-up periods with penalties for early withdrawals.
@@ -27,6 +28,8 @@ unreliable APYs.
 
 
 **Why Stake-X ?**
+
+
 Dynamic ICO Pricing – The price of the token auto-adjusts based on staking demand
 more staking = higher initial value.
 Dynamic APY Management - It adjusts interest rates based on pool liquidity, offering
@@ -42,114 +45,60 @@ trends and make smarter financial choices.
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+`The Builders`
 
-### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
-*(Add links if you want)*
+- Rajbir Biswas ([GitHub](https://github.com/ELiTE0005) / [LinkedIn](https://www.linkedin.com/in/rajbir-biswas-469bb428b/) / Developer )  
+
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- Why I chose this problem  ? 
+
+New blockchain startups struggle to raise funds due to the complex and expensive process
+of launching an Initial Coin Offering (ICO)
+Users often face long lock-up periods with penalties for early withdrawals.
+Some platforms even block withdrawals during volatile market conditions.
+Many platforms don’t disclose how rewards are calculated, leading to fluctuating and
+unreliable APYs.
+
+
+- One of the biggest hurdles I faced was ensuring accurate and real-time APY (Annual Percentage Yield) calculation based on dynamic staking pool liquidity as initially, our reward logic wasn’t updating correctly, leading to inconsistent returns shown in the APY estimator [Improper handling of async/await with ethers.js]
+
+here how I fixed it :
+
+Implementing real-time event listeners using ethers.js to listen for StakeUpdated and RewardsCalculated events and the best part ? refactoring the APY logic to fetch on-chain data at regular intervals :-)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+
+Smart contracts
+Solidity
+Backend & Frameworks Javascript node.js react.js
+ether.js Hardhat
+web3.js
+Deployment Network Holesky Testnet
+Wallets Used Metamask Rainbow WalletConnect
+EVM Used for Deployemnt Remix IDE
 
 ### Sponsor Technologies Used (if any):
-- [ ] **Groq:** _How you used Groq_  
-- [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [ ] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
----
+
+- [ ] **Base**
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+- ✅ Dynamic ICO Pricing
+- ✅ Liquidity Optimization
+- ✅ Enhanced Decision-Making
+- ✅ Dynamic APY Management
 
-Add images, GIFs, or screenshots if helpful!
 
----
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Demo Video Link:** [[Paste YouTube or Loom link here](https://youtu.be/bdM6b4JM7h8)]  
+- **Pitch Deck / PPT Link:** [[Paste Google Slides / PDF link here](https://drive.google.com/file/d/1ww5vrjspi8JJomL3yz4t4jqKbVpCLFfd/view?usp=sharing)]  
 
----
 
-## ✅ Tasks & Bonus Checklist
-
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
-
----
-
-## 🧪 How to Run the Project
-
-### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
-
-### Local Setup:
-```bash
-# Clone the repo
-git clone https://github.com/your-team/project-name
-
-# Install dependencies
-cd project-name
-npm install
-
-# Start development server
-npm run dev
-```
-
-Provide any backend/frontend split or environment setup notes here.
-
----
-
-## 🧬 Future Scope
-
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
----
-
-## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
-
----
-
-## 🏁 Final Words
-
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
-
----
